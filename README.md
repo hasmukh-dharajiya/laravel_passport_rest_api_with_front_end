@@ -18,7 +18,7 @@ Complete Real world REST API in Laravel 8.x(with Passport) with Back-End And Fro
 
 All Set First Register With Email and Password.
 
-`Note`: Make Sure Lumen Project Run In Background (Testing: http://127.0.0.1:8000/).
+`Note`: Make Sure Laravel backend Project Run In Background (Testing: http://127.0.0.1:8000/).
 
 ## Feature
 Key Feature of Project.
