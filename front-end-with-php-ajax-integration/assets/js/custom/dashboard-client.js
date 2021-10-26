@@ -204,6 +204,5 @@ const DashboardHelper = {
     },
     destroyAccessToken: () =>{
         localStorage.removeItem('access_token');
-        alert("hii")
     },
 };

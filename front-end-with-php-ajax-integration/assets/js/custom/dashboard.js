@@ -8,7 +8,7 @@ function Dashboard() {
                     $("#total_project").html(response.data.totalProject)
                     $("#total_task").html(response.data.totalTask)
                     $("#total_complete_project").html(response.data.completeProject)
-                    $("#total_task_project").html(response.data.completeTask)
+                    $("#total_complete_task").html(response.data.completeTask)
                     $.each(response.data.Project, function (key,val){
                         let status_value = "Incomplete";
                         let status_color = "secondary";
